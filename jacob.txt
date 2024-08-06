@@ -1,3 +1,4 @@
 name: jacob
 favCol: blue
 favFood: Okonomiyaki
+favAnimal: Dog
